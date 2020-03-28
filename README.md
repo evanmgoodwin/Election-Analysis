@@ -38,12 +38,12 @@ The Board of Elections employee would like you to further anaylyze the election 
 ## Challenge Summary
 Further analysis of the elction shows that:
 - The counties involved in the election were:
-      - Jefferson
-      - Denver
-      - Arapahoe
+     - Jefferson
+     - Denver
+     - Arapahoe
 - The vote tally by county was:
-      - Jefferson county voters cast 10.5% of the votes and 38,885 number of votes.
-      - Denver county voters cast 82.8% of the votes and 306, 055 number of votes.
-      - Arapahoe county voters cast 6.7% of the votes and 24,801 number of votes.
+     - Jefferson county voters cast 10.5% of the votes and 38,885 number of votes.
+     - Denver county voters cast 82.8% of the votes and 306, 055 number of votes.
+     - Arapahoe county voters cast 6.7% of the votes and 24,801 number of votes.
 - The county with the highest voter turnout was:
-      - Denver county, where voters cast 82.8% of the votes and 306,055 number of votes.
+     - Denver county, where voters cast 82.8% of the votes and 306,055 number of votes.
