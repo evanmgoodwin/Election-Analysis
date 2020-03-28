@@ -15,8 +15,8 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
--There were 369,711 votes cast in the election.
--The candidates were:
+- There were 369,711 votes cast in the election.
+- The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
@@ -37,7 +37,7 @@ The Board of Elections employee would like you to further anaylyze the election 
 
 ## Challenge Summary
 Further analysis of the elction shows that:
--The counties involved in the election were:
+- The counties involved in the election were:
       - Jefferson
       - Denver
       - Arapahoe
