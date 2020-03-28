@@ -85,10 +85,14 @@ with open(file_to_save, "w") as txt_file:
         f"\nElection Results\n"
         f"-------------------------\n"
         f"Total Votes: {total_votes:,}\n"
-        f"-------------------------\n"
-        f"\nCounty Votes:\n")
+        f"-------------------------\n")
     print(election_results)
     txt_file.write(election_results)
+
+    # Print county votes header to the terminal and save it to the text file.
+    county_votes_header = ("\nCounty Votes:\n")
+    print(county_votes_header)
+    txt_file.write(county_votes_header)
 
     # Iterate through the county list.
     for county in county_votes:
